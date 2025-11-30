@@ -29,7 +29,6 @@ Sou entusiasta de inovação e tecnologias emergentes, com foco em desenvolvimen
 ### 🗄️ Backend, DevOps e Cloud
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://simpleicons.org/?q=node)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://simpleicons.org/?q=docker)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://simpleicons.org/?q=git)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://simpleicons.org/?q=github)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://simpleicons.org/?q=linux)
 
@@ -44,20 +43,10 @@ Sou entusiasta de inovação e tecnologias emergentes, com foco em desenvolvimen
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://simpleicons.org/?q=powershell)
 
 ## 📂 Projetos em Destaque
-- Projeto 1 — breve descrição, valor entregue e stack principal.
-  - Stack: PHP, MySQL, Docker
-  - Link: [Repositório]()
-- Projeto 2 — automação com Python/ETL em Power Query.
-  - Stack: Python, Pandas, Power Query
-  - Link: [Repositório]()
-- Projeto 3 — dashboard em Power BI com DAX (tratamento de blanks e medidas).
-  - Stack: Power BI, DAX
-  - Link: [Repositório](
+
 
 ## 🛠️ Em andamento
-- Integrações PHP + APIs com pipelines em GitHub Actions.
-- ETL com Power Query e Python para transformar dados em JSON.
-- Otimização de medidas DAX e melhoria de desempenho em relatórios.
+
 
 ## 📈 Estatísticas
 

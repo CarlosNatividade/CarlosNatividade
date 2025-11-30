@@ -31,7 +31,6 @@ Sou entusiasta de inovação e tecnologias emergentes, com foco em desenvolvimen
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://simpleicons.org/?q=docker)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://simpleicons.org/?q=git)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://simpleicons.org/?q=github)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)](https://simpleicons.org/?q=github%20actions)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://simpleicons.org/?q=linux)
 
 ### 📊 Dados, BI e Escritório
@@ -47,13 +46,13 @@ Sou entusiasta de inovação e tecnologias emergentes, com foco em desenvolvimen
 ## 📂 Projetos em Destaque
 - Projeto 1 — breve descrição, valor entregue e stack principal.
   - Stack: PHP, MySQL, Docker
-  - Link: [Repositório](https://github.com/SEU_USUARIO/SEU_REPO)
+  - Link: [Repositório]()
 - Projeto 2 — automação com Python/ETL em Power Query.
   - Stack: Python, Pandas, Power Query
-  - Link: [Repositório](https://github.com/SEU_USUARIO/SEU_REPO)
+  - Link: [Repositório]()
 - Projeto 3 — dashboard em Power BI com DAX (tratamento de blanks e medidas).
   - Stack: Power BI, DAX
-  - Link: [Repositório](https://github.com/SEU_USUARIO/SEU_REPO)
+  - Link: [Repositório](
 
 ## 🛠️ Em andamento
 - Integrações PHP + APIs com pipelines em GitHub Actions.
